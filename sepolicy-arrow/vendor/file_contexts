@@ -1,2 +1,0 @@
-# LiveDisplay HAL
-/(vendor|system/vendor)/bin/hw/vendor\.arrow\.livedisplay@2\.0-service-sdm      u:object_r:hal_arrow_livedisplay_qti_exec:s0
